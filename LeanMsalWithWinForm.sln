@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanMsalWithWinForm.API", "LeanMsalWithWinForm.API\LeanMsalWithWinForm.API.csproj", "{B8228913-AC62-4426-AE5A-8D02C609C352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanMsalWithWinForm", "LeanMsalWithWinForm\LeanMsalWithWinForm.csproj", "{C96C99B6-E45F-45B1-BD5D-2EA92CFF6BB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8228913-AC62-4426-AE5A-8D02C609C352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8228913-AC62-4426-AE5A-8D02C609C352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8228913-AC62-4426-AE5A-8D02C609C352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8228913-AC62-4426-AE5A-8D02C609C352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C96C99B6-E45F-45B1-BD5D-2EA92CFF6BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C96C99B6-E45F-45B1-BD5D-2EA92CFF6BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C96C99B6-E45F-45B1-BD5D-2EA92CFF6BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C96C99B6-E45F-45B1-BD5D-2EA92CFF6BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADD2E776-FF36-4DE2-9296-49606C05F291}
+	EndGlobalSection
+EndGlobal
